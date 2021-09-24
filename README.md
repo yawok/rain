@@ -1,6 +1,6 @@
 # Rain
 
-![dp.png]
+![Screenshot of Program](dp.png)
 
 ---
 
